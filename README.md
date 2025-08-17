@@ -133,7 +133,7 @@ TaskMaster-main/
 
 ---
 
-## 🛠Implementation Notes
+## Implementation Notes
 
 - Uses standard Java collections: `Queue<Task>`, `ArrayList<Worker>`.
 - Task assignment checks for enough **idle** workers before starting.
